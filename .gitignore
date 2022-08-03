@@ -1,6 +1,9 @@
 # Local .terraform directories
 **/.terraform/*
 
+# Ignore local .git directories
+**/.git/*
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
@@ -33,8 +36,8 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-# Ignore .git directories
-**/.git/*
+
+
 
 
 
