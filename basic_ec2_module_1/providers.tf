@@ -1,4 +1,5 @@
 # --- Terraform_projects/basic_ec2_module_1/providers.tf ---
+# --- Provider is AWS
 
 terraform {
   required_providers {
