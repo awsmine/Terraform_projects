@@ -9,4 +9,4 @@ A repo of all my Terraform Projects
 
 4. How to manage and manipulate resources in Terraform state file - 1 https://dev.to/aws-builders/how-to-manage-and-manipulate-resources-in-terraform-state-file-1-1gg9
 
-5. 
+5. How to manage and manipulate resources in Terraform state file - 2 https://dev.to/aws-builders/how-to-manage-and-manipulate-resources-in-terraform-state-file-2-2hle
