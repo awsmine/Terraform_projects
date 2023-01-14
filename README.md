@@ -7,4 +7,6 @@ A repo of all my Terraform Projects
 
 3. terraform_two_tier_architecture: Deploying a two-tier architecture in AWS using Terraform https://dev.to/aws-builders/deploying-a-two-tier-architecture-in-aws-using-terraform-1344
 
-4. 
+4. How to manage and manipulate resources in Terraform state file - 1 https://dev.to/aws-builders/how-to-manage-and-manipulate-resources-in-terraform-state-file-1-1gg9
+
+5. 
