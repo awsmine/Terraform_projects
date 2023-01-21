@@ -12,3 +12,5 @@ A repo of all my Terraform Projects
 5. How to manage and manipulate resources in Terraform state file - 2 https://dev.to/aws-builders/how-to-manage-and-manipulate-resources-in-terraform-state-file-2-2hle
 
 6. Understanding Implicit Dependencies between Resources in Terraform https://dev.to/aws-builders/understanding-implicit-dependencies-between-resources-in-terraform-i20
+
+7. Understanding Explicit Dependencies between Resources or modules in Terraform https://dev.to/aws-builders/understanding-explicit-dependencies-between-resources-or-modules-in-terraform-1elp
