@@ -14,3 +14,5 @@ A repo of all my Terraform Projects
 6. Understanding Implicit Dependencies between Resources in Terraform https://dev.to/aws-builders/understanding-implicit-dependencies-between-resources-in-terraform-i20
 
 7. Understanding Explicit Dependencies between Resources or modules in Terraform https://dev.to/aws-builders/understanding-explicit-dependencies-between-resources-or-modules-in-terraform-1elp
+
+8. Query data sources using state file in Terraform - 1 https://dev.to/aws-builders/query-data-sources-using-state-file-in-terraform-1-34bm 
