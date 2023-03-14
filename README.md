@@ -19,4 +19,4 @@ A repo of all my Terraform Projects
 
 9. Query data sources using state file in Terraform - 2 https://dev.to/aws-builders/query-data-sources-using-state-file-in-terraform-2-2o1i
 
-10. Create a MySQL RDS Database Instance with Terraform https://dev.to/aws-builders/create-a-mysql-rds-database-instance-with-terraform-3oab
+10. Create a MySQL RDS Database Instance with Terraform and connect with MySQL Workbench https://dev.to/aws-builders/create-a-mysql-rds-database-instance-with-terraform-3oab
