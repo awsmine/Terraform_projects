@@ -22,3 +22,5 @@ A repo of all my Terraform Projects
 10. Create a MySQL RDS Database Instance with Terraform and connect with MySQL Workbench https://dev.to/aws-builders/create-a-mysql-rds-database-instance-with-terraform-3oab
 
 11. How to Create a simple static Amazon S3 website using Terraform ---> https://dev.to/aws-builders/how-to-create-a-simple-static-amazon-s3-website-using-terraform-43hc
+
+12. How to publicly access S3 Object using Terraform ---> https://dev.to/aws-builders/how-to-publicly-access-s3-object-using-terraform-3h27
