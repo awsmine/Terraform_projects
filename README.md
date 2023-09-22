@@ -24,3 +24,5 @@ A repo of all my Terraform Projects
 11. How to Create a simple static Amazon S3 website using Terraform ---> https://dev.to/aws-builders/how-to-create-a-simple-static-amazon-s3-website-using-terraform-43hc
 
 12. How to publicly access S3 Object using Terraform ---> https://dev.to/aws-builders/how-to-publicly-access-s3-object-using-terraform-3h27
+
+13. How to launch an RDS Cluster with Multi AZ Read Replica using Terraform ---> https://dev.to/aws-builders/how-to-launch-an-rds-cluster-with-multi-az-read-replica-using-terraform-2ca1
