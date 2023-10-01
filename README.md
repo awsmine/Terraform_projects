@@ -26,3 +26,7 @@ A repo of all my Terraform Projects
 12. How to publicly access S3 Object using Terraform ---> https://dev.to/aws-builders/how-to-publicly-access-s3-object-using-terraform-3h27
 
 13. How to launch an RDS Cluster with Multi AZ Read Replica using Terraform ---> https://dev.to/aws-builders/how-to-launch-an-rds-cluster-with-multi-az-read-replica-using-terraform-2ca1
+
+14. Create an Amazon EKS Cluster and install kubectl using Terraform ---> https://dev.to/aws-builders/create-an-amazon-eks-cluster-and-install-kubectl-using-terraform-1lji
+
+15. 
