@@ -29,4 +29,6 @@ A repo of all my Terraform Projects
 
 14. Create an Amazon EKS Cluster and install kubectl using Terraform ---> https://dev.to/aws-builders/create-an-amazon-eks-cluster-and-install-kubectl-using-terraform-1lji
 
-15. 
+15. Using Terraform Dynamic Blocks and Built-in Functions to Deploy Resources to AWS ---> https://dev.to/awsmine/using-terraform-dynamic-blocks-and-built-in-functions-to-deploy-resources-to-aws-4nfp
+
+
