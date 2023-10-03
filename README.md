@@ -31,4 +31,6 @@ A repo of all my Terraform Projects
 
 15. Using Terraform Dynamic Blocks and Built-in Functions to Deploy Resources to AWS ---> https://dev.to/aws-builders/using-terraform-dynamic-blocks-and-built-in-functions-to-deploy-resources-to-aws-4nfp
 
+16. Showing the effect of a null_resource with Your Terraform Configuration ---> https://dev.to/aws-builders/showing-the-effect-of-a-nullresource-with-your-terraform-configuration-4hgn
+
 
