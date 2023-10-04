@@ -33,4 +33,6 @@ A repo of all my Terraform Projects
 
 16. Showing the effect of a null_resource with Your Terraform Configuration ---> https://dev.to/aws-builders/showing-the-effect-of-a-nullresource-with-your-terraform-configuration-4hgn
 
+17. Configure a Remote Backend with AWS S3 and DynamoDB state locking in Terraform ---> https://dev.to/aws-builders/configure-a-remote-backend-with-aws-s3-and-dynamodb-state-locking-in-terraform-3jne
+
 
