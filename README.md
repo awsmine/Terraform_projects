@@ -35,4 +35,6 @@ A repo of all my Terraform Projects
 
 17. Configure a Remote Backend with AWS S3 and DynamoDB state locking in Terraform ---> https://dev.to/aws-builders/configure-a-remote-backend-with-aws-s3-and-dynamodb-state-locking-in-terraform-3jne
 
+18. Using refresh-only mode to sync Terraform state File ---> https://dev.to/aws-builders/using-refresh-only-mode-to-sync-terraform-state-file-2o1j
+
 
