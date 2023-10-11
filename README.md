@@ -37,4 +37,6 @@ A repo of all my Terraform Projects
 
 18. Using refresh-only mode to sync Terraform state File ---> https://dev.to/aws-builders/using-refresh-only-mode-to-sync-terraform-state-file-2o1j
 
+19. How to debug logging in Terraform setting it to Trace ---> https://dev.to/aws-builders/how-to-debug-logging-in-terraform-setting-it-to-trace-3nik
+
 
