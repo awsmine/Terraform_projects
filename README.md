@@ -39,4 +39,6 @@ A repo of all my Terraform Projects
 
 19. How to debug logging in Terraform setting it to Trace ---> https://dev.to/aws-builders/how-to-debug-logging-in-terraform-setting-it-to-trace-3nik
 
+20. How to fix a Terraform for_each Error ---> https://dev.to/aws-builders/how-to-fix-a-terraform-foreach-error-46hg
+
 
