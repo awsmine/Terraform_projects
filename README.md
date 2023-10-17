@@ -41,4 +41,6 @@ A repo of all my Terraform Projects
 
 20. How to fix a Terraform for_each Error ---> https://dev.to/aws-builders/how-to-fix-a-terraform-foreach-error-46hg
 
+21. How to fix a Terraform String Variable Interpolation Error ---> https://dev.to/aws-builders/how-to-fix-a-terraform-string-variable-interpolation-error-1e67
+
 
