@@ -45,4 +45,6 @@ A repo of all my Terraform Projects
 
 22. How to fix a Terraform Cycle Error ---> https://dev.to/aws-builders/how-to-fix-a-terraform-cycle-error-45k2
 
+23. How to troubleshoot Region Declaration and Outputs errors in Terraform ---> https://dev.to/aws-builders/how-to-troubleshoot-region-declaration-and-outputs-errors-in-terraform-3mjo
+
 
